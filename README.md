@@ -1,6 +1,6 @@
 # password_validator
 
-A new Flutter project.
+This Flutter App is used to validate and make strong your Passwords...
 
 ## Getting Started
 
